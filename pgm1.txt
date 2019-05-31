@@ -22,12 +22,3 @@ for rec in fil1.readlines():
         fmal_cnt+=1
 print(f'average spending of Male is :  {mal_spnd/mal_cnt} \n average spending of Female is : {fmal_spnd/fmal_cnt}')
 fil1.close()
-
-
-# In[34]:
-
-
-mal cnt 3 fmal cnt 7
-123
-371
-
